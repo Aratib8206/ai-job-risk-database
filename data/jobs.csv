@@ -1,0 +1,103 @@
+occupation,risk_score,risk_level,timeline_years,trend,industry,primary_ai_threat,workforce_size_us
+Data Entry Clerk,96,HIGH,2-3,increasing,Technology,LLM + OCR automation,152000
+Telemarketer,95,HIGH,2-3,increasing,Sales,AI voice agents,98000
+Typist,95,HIGH,1-2,increasing,Admin,Voice-to-text + LLMs,38000
+Toll Booth Operator,92,HIGH,2-3,increasing,Transportation,Electronic tolling,7000
+Bookkeeper,92,HIGH,3-4,increasing,Finance,AI accounting software,1500000
+File Clerk,90,HIGH,2-3,increasing,Admin,Document management AI,125000
+Proofreader,90,HIGH,2-3,increasing,Creative,LLM grammar/style check,68000
+Retail Cashier,89,HIGH,3-5,increasing,Retail,Self-checkout automation,3340000
+Tax Preparer,88,HIGH,3-4,increasing,Finance,Automated tax filing,86000
+Meter Reader,88,HIGH,3-4,increasing,Utilities,Smart meters + IoT,28000
+Insurance Underwriter,86,HIGH,3-5,increasing,Finance,AI risk assessment models,115000
+Bank Teller,85,HIGH,3-4,increasing,Finance,Digital banking + chatbots,405000
+Transcriptionist,84,HIGH,1-2,increasing,Healthcare,Speech-to-text AI,51000
+Payroll Clerk,82,HIGH,3-4,increasing,Finance,Payroll automation,140000
+Travel Agent,82,HIGH,3-5,increasing,Travel,AI trip planning,58000
+Paralegal,80,HIGH,3-5,increasing,Legal,Legal AI review tools,345000
+Fast Food Cook,78,HIGH,4-6,increasing,Food Service,Kitchen robotics,3600000
+Warehouse Worker,77,HIGH,3-5,increasing,Logistics,Robotics + AI logistics,1800000
+Customer Service Rep,76,HIGH,2-4,increasing,Services,AI chatbots/voice agents,2900000
+Assembly Line Worker,75,HIGH,3-5,increasing,Manufacturing,Industrial robots + AI QC,1600000
+Medical Coder,74,HIGH,3-4,increasing,Healthcare,AI coding systems,350000
+Real Estate Appraiser,74,HIGH,4-6,stable,Real Estate,AI valuation models,75000
+Mail Carrier,73,HIGH,5-8,stable,Transportation,Drone delivery + digital mail,325000
+Receptionist,72,HIGH,3-5,increasing,Admin,Virtual receptionist AI,985000
+Loan Officer,72,HIGH,3-5,increasing,Finance,AI credit scoring,310000
+Claims Adjuster,71,HIGH,4-6,increasing,Insurance,AI damage assessment,285000
+Stock Trader (floor),70,HIGH,2-4,increasing,Finance,Algorithmic trading,42000
+Credit Analyst,70,HIGH,3-5,increasing,Finance,AI credit models,72000
+Medical Records Tech,68,MODERATE,3-4,increasing,Healthcare,AI data extraction + EHR,185000
+Copywriter,68,MODERATE,2-4,increasing,Creative,LLMs (ChatGPT Claude),145000
+Graphic Designer,65,MODERATE,3-5,increasing,Creative,Midjourney DALL-E Canva AI,290000
+Translator/Interpreter,62,MODERATE,3-5,increasing,Languages,DeepL Google Translate AI,68000
+Technical Writer,62,MODERATE,3-4,increasing,Technology,LLM documentation generation,52000
+Junior Software Developer,60,MODERATE,3-5,increasing,Technology,Copilot Cursor Claude Code,450000
+Market Research Analyst,60,MODERATE,3-5,increasing,Business,AI survey + data analysis,790000
+Dispatcher,60,MODERATE,3-5,increasing,Transportation,AI routing + scheduling,215000
+Drafter (CAD),58,MODERATE,4-6,increasing,Engineering,AI-assisted design tools,82000
+Financial Analyst,58,MODERATE,4-6,increasing,Finance,AI financial modeling,310000
+Accountant (CPA),55,MODERATE,4-6,stable,Finance,AI audit + analytics,1450000
+Journalist (news),55,MODERATE,4-6,increasing,Media,AI-generated news articles,45000
+Executive Assistant,55,MODERATE,3-5,increasing,Admin,AI scheduling + email,780000
+Truck Driver (long-haul),55,MODERATE,5-10,stable,Transportation,Autonomous driving,1900000
+Quality Control Inspector,55,MODERATE,4-6,increasing,Manufacturing,Computer vision AI,525000
+Purchasing Agent,55,MODERATE,4-6,increasing,Business,AI procurement platforms,70000
+Photographer,52,MODERATE,4-6,increasing,Creative,AI-generated images,145000
+Retail Sales Associate,52,MODERATE,4-6,increasing,Retail,E-commerce AI + chatbots,4300000
+HR Recruiter,52,MODERATE,3-5,increasing,HR,AI screening + matching,340000
+Taxi/Rideshare Driver,50,MODERATE,5-10,stable,Transportation,Waymo Cruise autonomous,350000
+Insurance Agent,50,MODERATE,4-6,stable,Insurance,Online comparison + AI,520000
+Compliance Officer,50,MODERATE,4-6,stable,Legal,AI regulatory monitoring,345000
+Librarian,48,MODERATE,5-7,stable,Education,AI search + digital access,143000
+Real Estate Agent,48,MODERATE,5-7,stable,Real Estate,AI property matching,1600000
+Security Guard,48,MODERATE,5-8,stable,Security,AI surveillance + robotics,1150000
+Interior Designer,45,MODERATE,5-7,stable,Creative,AI design tools,85000
+Surveyor,45,MODERATE,5-7,stable,Engineering,Drone + LiDAR + AI mapping,48000
+Property Manager,45,MODERATE,5-7,stable,Real Estate,AI tenant management,385000
+Radiologist,45,MODERATE,5-8,stable,Healthcare,AI image interpretation,38000
+Pharmacist,42,MODERATE,5-8,stable,Healthcare,Automated dispensing + AI,325000
+Lab Technician,42,MODERATE,5-8,stable,Healthcare,Automated lab equipment,335000
+Welder,42,MODERATE,5-8,stable,Manufacturing,Welding robots,410000
+Marketing Manager,42,MODERATE,5-7,stable,Business,AI ad optimization + content,310000
+Music Producer,40,MODERATE,5-8,stable,Creative,AI music generation,55000
+Audio/Video Technician,40,MODERATE,5-7,stable,Creative,AI editing tools,85000
+Data Scientist,35,LOW,7+,stable,Technology,AI builds AI but needs oversight,195000
+Art Director,35,LOW,7+,stable,Creative,Creative direction + brand vision,95000
+UX Researcher,35,LOW,8+,stable,Technology,Human insight + behavior analysis,45000
+Product Manager,32,LOW,8+,stable,Technology,Cross-functional leadership,285000
+Architect,32,LOW,8+,stable,Engineering,Creative vision + client relations,120000
+HR Manager,30,LOW,8+,stable,HR,People management + culture,190000
+Civil Engineer,30,LOW,8+,stable,Engineering,Site-specific + safety critical,320000
+Sales Executive (B2B),30,LOW,8+,stable,Sales,Relationship-driven complex sales,410000
+Chef (fine dining),28,LOW,10+,stable,Food Service,Creativity + taste + art,165000
+Senior Software Engineer,28,LOW,10+,stable,Technology,Architecture + complex systems,320000
+Landscape Architect,28,LOW,10+,stable,Engineering,Site-specific + aesthetic vision,25000
+Police Officer,26,LOW,12+,stable,Public Safety,Public safety + judgment,665000
+Occupational Therapist,25,LOW,12+,decreasing,Healthcare,Adaptive physical therapy,145000
+Mechanical Engineer,25,LOW,10+,stable,Engineering,Design creativity + testing,285000
+Automotive Mechanic,25,LOW,10+,stable,Trades,Diagnostics going AI hands-on stays,750000
+CEO/Executive,25,LOW,15+,stable,Business,Strategy + leadership,290000
+Dental Hygienist,22,LOW,12+,stable,Healthcare,Physical procedures,230000
+Veterinarian,22,LOW,12+,decreasing,Healthcare,Animal handling + diagnostics,85000
+Airline Pilot,22,LOW,10+,stable,Transportation,Safety-critical + regulation,95000
+Athletic Trainer,22,LOW,12+,stable,Healthcare,Physical assessment + rehab,35000
+Construction Manager,20,LOW,12+,stable,Construction,On-site oversight + coordination,480000
+Speech Therapist,20,LOW,12+,decreasing,Healthcare,Physical + communication therapy,165000
+Nurse Practitioner,19,LOW,15+,decreasing,Healthcare,Advanced clinical + patient trust,355000
+Physical Therapist,18,LOW,15+,decreasing,Healthcare,Hands-on rehabilitation,260000
+Social Worker,18,LOW,15+,decreasing,Social Services,Complex human relationships,715000
+School Principal,18,LOW,15+,decreasing,Education,Community leadership + education,130000
+HVAC Technician,18,LOW,15+,decreasing,Trades,Physical installation + repair,395000
+Kindergarten Teacher,16,LOW,15+,decreasing,Education,Child development + nurturing,155000
+Plumber,15,LOW,15+,decreasing,Trades,Hands-on problem solving,490000
+Nurse Anesthetist,15,LOW,15+,decreasing,Healthcare,Critical patient safety,45000
+Robotics Engineer,15,LOW,15+,decreasing,Technology,Building the automation itself,35000
+Judge,15,LOW,15+,decreasing,Legal,Legal judgment + authority,45000
+Electrician,14,LOW,15+,decreasing,Trades,Varied physical environments,740000
+Midwife,12,LOW,15+,decreasing,Healthcare,Intimate care + emergencies,8000
+Firefighter,12,LOW,15+,decreasing,Public Safety,Physical danger + unpredictability,330000
+Psychologist,12,LOW,15+,decreasing,Healthcare,Therapeutic alliance + empathy,192000
+Clergy/Minister,10,LOW,15+,decreasing,Community,Spiritual guidance + community,65000
+Surgeon,10,LOW,15+,decreasing,Healthcare,Manual precision + liability,45000
+Emergency Room Nurse,8,LOW,15+,decreasing,Healthcare,Physical care + critical judgment,3100000
